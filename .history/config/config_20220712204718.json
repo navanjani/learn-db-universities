@@ -1,0 +1,6 @@
+{
+  "development": {
+    "url": "postgres://cbdmreah:soYJfYjbxwDtOUCNyqm-DeLX__caTuNw@hattie.db.elephantsql.com/cbdmreah",
+    "dialect": "postgres"
+  }
+}
